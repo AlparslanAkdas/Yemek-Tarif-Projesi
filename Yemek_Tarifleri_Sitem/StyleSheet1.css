@@ -1,0 +1,10 @@
+﻿a:link{
+    text-decoration:none;
+    font-size:14px;
+    font-family:"Segoe UI";
+    font-style:normal;
+}
+a:hover{ /* hover fare üstüne gelince değişiyor*/
+         font-size:18px;
+         color:yellow;
+}
